@@ -11,6 +11,7 @@ API desenvolvida em Node-RED
 Usando os serviços:
 
  - Google Speech
+ - Watson Knowledge Studio
  - Natural Language Understanding
 
 Imagem do Flow:
